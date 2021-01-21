@@ -1,3 +1,8 @@
+WARNING
+=======
+As was noted in the official (unmaintained) repo for this project, TOR will stop using V2 addresses in October 2021 for security, rendering this project useless.
+I will private this project when this happens.
+
 This version of scallion adds a filter for only finding non-numerical onions and a quick GUI to get output fast. Something that needs changing is the fact you can't directly copy the found onion addresses from the list.
 
 Scallion
